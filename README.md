@@ -212,4 +212,4 @@ SymMover is the full free version, offering all features and updates included fo
 Ready to optimize your storage? **Download SymMover now and enjoy seamless program management!**
 
 ---
-**Last updated:** 2026-10-19 05:42:46 UTC
+**Last updated:** 2026-10-19 12:06:17 UTC
